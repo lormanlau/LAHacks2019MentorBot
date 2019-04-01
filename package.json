@@ -1,0 +1,18 @@
+{
+  "name": "lahacksbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "twilio": "^3.30.0"
+  }
+}
